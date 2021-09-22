@@ -76,7 +76,6 @@ class WrapW extends StatelessWidget {
               label:const Text("Data Science")),
           // Trending Technologies ends
 
-
           // Web Technology Starts
           Container(
             width: 505,
