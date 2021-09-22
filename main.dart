@@ -1,3 +1,6 @@
+// 1 . Using wrap to create UI like above images.
+// Description: Add 10 names or more and it will look like as per below UI. if you add more names then it will fit perfectly on the screen. And each name chips you can design as per your choice.
+
 import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
